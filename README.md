@@ -1,28 +1,37 @@
 # 💫 About Me:
 
-- 👨‍💻 I'm a student at **University of Information Technology - Vietnam National University**, majoring in **Software Engineering (2021-2025)**.
+-   👨‍💻 I'm a student at **University of Information Technology - Vietnam National University**, majoring in **Software Engineering (2021-2025)**.
 
-- 👓 I am a **Front-End Developer**, passionate about **building scalable, high-performance, and user-friendly web applications**.
+-   👓 I am a **Front-End Developer**, passionate about **building scalable, high-performance, and user-friendly web applications**.
 
-- 🌱 I specialize in **React.js, Next.js 14, TypeScript**, and modern UI/UX frameworks like **TailwindCSS, Shadcn UI**.
+-   🌱 I specialize in **React.js, Next.js 14, TypeScript**, and modern UI/UX frameworks like **TailwindCSS, Shadcn UI**.
 
-- 💡 I have built **full-stack projects**, focusing on performance, real-time collaboration, and modern authentication.
+-   💡 I have built **full-stack projects**, focusing on performance, real-time collaboration, and modern authentication.
 
-- ⚡ I have experience working with **Node.js (Hono.js, Appwrite, Prisma)** and databases like **PostgreSQL, MongoDB, Convex**.
+-   ⚡ I have experience working with **Node.js (Hono.js, Appwrite, Prisma)** and databases like **PostgreSQL, MongoDB, Convex**.
 
-- 🛠 I am continuously learning and improving through **LeetCode (Top Interview 150, 30 Days of JavaScript)** and **building hands-on projects**.
+-   🛠 I am continuously learning and improving through **LeetCode (Top Interview 150, 30 Days of JavaScript)** and **building hands-on projects**.
 
-- 🚀 Currently looking for a **Fresher/Intern Front-End Developer role** to contribute to impactful projects and collaborate with great teams.
+-   🚀 Currently looking for a **Fresher/Intern Front-End Developer role** to contribute to impactful projects and collaborate with great teams.
 
-- 📫 How to reach me? **lqtu12369@gmail.com**
+-   📫 How to reach me? **lqtu12369@gmail.com**
+
 ---
 
 ## 🛠 **Tech Stack**
+
 <div width="100%">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blueWhale1202&show_icons=true&locale=en&layout=compact&theme=onedark" alt="blueWhale1202" />
+<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blueWhale1202&show_icons=true&locale=en&layout=compact&theme=onedark" 
+       alt="blueWhale1202" 
+       style="height: 150px; width: auto; margin-right: 10px;">
+       
+  <img src="./javascript.jpg" 
+       alt="JavaScript" 
+       style="height: 150px; width: auto; margin-top: 20px">
 </div>
+
 <br />
 <table>
 <tr>
@@ -62,7 +71,3 @@
 </table>
 
 </div>
-
-
-
-
