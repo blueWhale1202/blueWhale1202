@@ -22,15 +22,15 @@
 
 <div width="100%">
 
-<div style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blueWhale1202&show_icons=true&locale=en&layout=compact&theme=onedark" 
        alt="blueWhale1202" 
-       style="height: 150px; width: auto; margin-right: 10px;">
+       height="150">
        
   <img src="./javascript.jpg" 
        alt="JavaScript" 
-       style="height: 150px; width: auto; margin-top: 20px">
-</div>
+       height="150">
+</p>
 
 <br />
 <table>
