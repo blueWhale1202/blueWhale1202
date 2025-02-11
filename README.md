@@ -22,7 +22,12 @@
 
 <div width="100%">
 
-<img src="./custom-layout.svg" alt="Custom Layout" />
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=blueWhale1202&show_icons=true&locale=en&layout=compact&theme=onedark" height="150"></td>
+    <td><img src="./javascript.jpg" height="150"></td>
+  </tr>
+</table>
 
 <br />
 <table>
