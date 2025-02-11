@@ -1,0 +1,22 @@
+<svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        .container {
+          display: flex;
+          justify-content: center;
+          align-items: center;
+          gap: 10px;
+        }
+        img {
+          height: 150px;
+          width: auto;
+        }
+      </style>
+      <div class="container">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blueWhale1202&show_icons=true&locale=en&layout=compact&theme=onedark" alt="blueWhale1202"/>
+        <img src="./javascript.jpg" alt="JavaScript"/>
+      </div>
+    </div>
+  </foreignObject>
+</svg>

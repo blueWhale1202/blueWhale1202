@@ -22,15 +22,7 @@
 
 <div width="100%">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blueWhale1202&show_icons=true&locale=en&layout=compact&theme=onedark" 
-       alt="blueWhale1202" 
-       height="150">
-       
-  <img src="./javascript.jpg" 
-       alt="JavaScript" 
-       height="150">
-</p>
+<img src="./custom-layout.svg" alt="Custom Layout" />
 
 <br />
 <table>
