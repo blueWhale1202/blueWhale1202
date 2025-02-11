@@ -22,12 +22,10 @@
 
 <div width="100%">
 
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs?username=blueWhale1202&show_icons=true&locale=en&layout=compact&theme=onedark" height="150"></td>
-    <td><img src="./javascript.jpg" height="150"></td>
-  </tr>
-</table>
+<div align="center">
+  &nbsp;&nbsp;&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=blueWhale1202&show_icons=true&locale=en&layout=compact&theme=onedark" height="165" width="300">
+  &nbsp;&nbsp;<img src="./javascript.jpg" height="165" width="300">
+</div>
 
 <br />
 <table>
