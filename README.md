@@ -20,7 +20,10 @@
 ## 🛠 **Tech Stack**
 <div width="100%">
 
-### 💡 **Technology Stack Overview**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blueWhale1202&show_icons=true&locale=en&layout=compact&theme=onedark" alt="blueWhale1202" />
+</div>
+<br />
 <table>
 <tr>
 <th>🎨 Front-End</th>
@@ -60,14 +63,6 @@
 
 </div>
 
-
-
----
-
-## 🏆 **Popular Languages**
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=blueWhale1202&show_icons=true&locale=en&layout=compact&theme=onedark" alt="blueWhale1202" />
-</div>
 
 
 
